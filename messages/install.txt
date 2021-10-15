@@ -1,0 +1,7 @@
+SublimeLinter-revive
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to revive.
+
+For more information on installing and configuring this linter:
+
+https://github.com/Gohryt/SublimeLinter-revive
