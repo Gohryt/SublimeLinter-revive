@@ -1,7 +1,7 @@
 from SublimeLinter.lint import util, Linter, WARNING
 
 
-class Golint(Linter):
+class Revive(Linter):
     cmd = 'revive'
     regex = r'^.+:(?P<line>\d+):(?P<col>\d+):\s+(?P<message>.+)'
     tempfile_suffix = 'go'
